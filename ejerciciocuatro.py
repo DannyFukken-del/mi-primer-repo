@@ -27,6 +27,8 @@ print("Subtotal: $", subtotal)
 print("IVA (19%): $", iva)
 print("Total a pagar: $", total)
 print("Mi primer programa en Python")
+print("verifico factura")
+
 
 
 
