@@ -25,6 +25,21 @@ total = subtotal + iva
 print("\n------ FACTURA ------")
 print("Subtotal: $", subtotal)
 print("IVA (19%): $", iva)
+print("valido la infromacion")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print("Total a pagar: $", total)
 print("Mi primer programa en Python")
 print("verifico factura")
